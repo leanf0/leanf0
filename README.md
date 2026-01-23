@@ -1,8 +1,14 @@
+<div align="center">
 
+# 👋 Hola, soy Lean
 
-# leanfo 
+### Aprendiendo ciberseguridad y redes
 
-## 🧠 Actualmente 
+</div>
+
+---
+
+## 🧠 Actualmente
 - 📚 Aprendiendo **ciberseguridad y redes**
 - 🐧 Usando **Linux en máquinas virtuales**
 - 🤖 Experimentando con **bots y automatización**
@@ -14,6 +20,4 @@
 - Redes (nivel inicial)
 
 ## 🎯 Objetivo
-Convertirme en analista soc e ir escalando
-
----
+Convertirme en **analista SOC** e ir escalando profesionalmente.
