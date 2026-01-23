@@ -2,7 +2,7 @@
 
 #  Hola, soy leanfo
 
-### Aprendiendo ciberseguridad y redes
+### Aspirante a analista SOC
 
 </div>
 
