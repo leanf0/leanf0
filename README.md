@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Soy leanfo
+#   leanfo
 
 ### Aspiring SOC Analyst
 
