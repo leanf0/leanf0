@@ -2,7 +2,7 @@
 Soy leanfo 
 
 
-🧠 Actualmente 
+## 🧠 Actualmente 
 - 📚 Aprendiendo **ciberseguridad y redes**
 - 🐧 Usando **Linux en máquinas virtuales**
 - 🤖 Experimentando con **bots y automatización**
