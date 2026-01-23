@@ -18,4 +18,4 @@ Soy leanfo
 ---
 
 ## 🎯 Objetivo
-Convertirme en un profesional de **ciberseguridad**
+Convertirme en un profesional en **ciberseguridad**
