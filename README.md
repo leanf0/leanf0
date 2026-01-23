@@ -14,6 +14,6 @@
 - Redes (nivel inicial)
 
 ## 🎯 Objetivo
-Convertirme en un profesional en **ciberseguridad**
+Convertirme en analista soc e ir escalando
 
 ---
