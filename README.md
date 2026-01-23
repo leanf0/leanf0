@@ -7,7 +7,6 @@
 - 🐧 Usando **Linux en máquinas virtuales**
 - 🤖 Experimentando con **bots y automatización**
 
----
 
 ## 🛠 Tecnologías que uso
 - Python (básico)
@@ -15,7 +14,7 @@
 - Git & GitHub
 - Redes (nivel inicial)
 
----
 
 ## 🎯 Objetivo
 Convertirme en un profesional en **ciberseguridad**
+---
