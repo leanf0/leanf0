@@ -2,7 +2,7 @@
 
 #  Hola, soy leanfo
 
-### Aspirante a analista SOC
+### Aspiring SOC Analyst
 
 </div>
 
