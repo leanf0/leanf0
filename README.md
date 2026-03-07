@@ -1,25 +1,5 @@
 <div align="center">
 
-#   leanfo
-
-### Aspiring SOC Analyst
-
-</div>
-
----
-
-##  Actualmente
--  Aprendiendo **ciberseguridad y redes**
--  Aprendiendo **Java**
--  Usando **Linux en máquinas virtuales**
--  Experimentando con **bots y automatización**
-
-##  Tecnologías que uso
-- Python (básico)
-- Linux
-- Git & GitHub
-- Redes (nivel inicial)
-  
-##  Objetivos
-- Convertirme en **analista SOC** e ir escalando profesionalmente.
-- Aprender a moddear en minecraft
+#  Sobre mi
+Actualmente ando finalizando mi etapa educativa en el tecnico de Electromecanica y preparandome para estudiar Ingeniería en Sistemas, con el objetivo de especializarme en ciberseguridad y desarrollo de software.
+Tambien como proyectos personales tengo pensando ser creador de contenido como Vtuber siendo una oveja y aprender escalada para ser un gran alpinista
