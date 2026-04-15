@@ -18,7 +18,7 @@ Tambien como proyectos personales tengo pensando ser creador de contenido como V
 
 <tr>
 <td>Judgeman defender </td>
-<td>Un escáner de seguridad basado en el shikigami de Hitori Higuruma del anime Jujutsu Kaisen que analiza archivos o procesos, determina si son maliciosos y aplica una “sentencia” (eliminarlos o aislarlos).</td>
+<td>aja</td>
 <td>Rust / C++</td>
 </tr>
 <p align="center">
